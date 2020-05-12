@@ -1,0 +1,2 @@
+..\bamcompile index.php
+pause

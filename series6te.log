@@ -1,0 +1,38 @@
+18/12/2012 02:45:35 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_enchant.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:35 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_exif.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:36 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_intl.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:36 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_ldap.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:36 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_oci8.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:37 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_oci8_11g.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:37 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pdo_oci.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:37 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pdo_pgsql.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:37 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pgsql.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:45:46 PHP message: PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at C:\wamp\www\series6te\Data\index.php:212) in C:\wamp\www\series6te\Data\index.php on line 357
+18/12/2012 02:45:46 PHP message: PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\series6te\Data\index.php:212) in C:\wamp\www\series6te\Data\index.php on line 357
+18/12/2012 02:46:46 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_enchant.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:46 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_exif.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:46 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_intl.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:47 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_ldap.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:47 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_oci8.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:47 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_oci8_11g.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:47 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pdo_oci.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:48 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pdo_pgsql.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
+18/12/2012 02:46:48 PHP message: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\wamp\www\series6te\Data\ext\php_pgsql.dll' - Não foi possível encontrar o módulo especificado.
+ in Unknown on line 0
